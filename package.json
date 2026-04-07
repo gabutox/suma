@@ -1,0 +1,21 @@
+{
+  "name": "suma",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/gabutox/suma#readme",
+  "bugs": {
+    "url": "https://github.com/gabutox/suma/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabutox/suma.git"
+  },
+  "license": "MIT",
+  "author": "Gabriel Alaniz",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  }
+}
